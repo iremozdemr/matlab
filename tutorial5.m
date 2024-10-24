@@ -1,9 +1,9 @@
-clc
-clearvars
-
 % başlangıç:artış:bitiş
 % başlangıç:bitiş
 % linspace(başlangıç,bitiş,element sayısı)
+
+clc
+clearvars
 
 x = 3:2:11
 % 3 5 7 9 11
